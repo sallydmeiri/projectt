@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LawyerApp
+</name>
+</assembly>
+<members>
+<member name="T:LawyerApp.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LawyerApp.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LawyerApp.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:LawyerApp.My.Resources.Resources.login_icon_png_27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.adviceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.cace_sessionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.caseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.clientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.cont_sessionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.Justic_documentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.loginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.Transfer_of_caseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.adviceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.cace_sessionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.caseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.clientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.cont_sessionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.Justic_documentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.loginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.Transfer_of_caseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.adviceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.cace_sessionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.caseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.clientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.cont_sessionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.Justic_documentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.loginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSet.Transfer_of_caseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.adviceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.cace_sessionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.caseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.clientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.cont_sessionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.Justic_documentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.loginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.Transfer_of_caseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LawyerApp.Lawyer1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LawyerApp.Lawyer1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LawyerApp.Lawyer1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager.UpdateAll(LawyerApp.Lawyer1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LawyerApp.Lawyer1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
